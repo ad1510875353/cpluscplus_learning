@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kuda/cplusplus/thread_pool_c/main.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+pthread.h
+-
+threadpool.h
+/home/kuda/cplusplus/thread_pool_c/threadpool.h
+
+/home/kuda/cplusplus/thread_pool_c/threadpool.c
+threadpool.h
+/home/kuda/cplusplus/thread_pool_c/threadpool.h
+stdio.h
+-
+unistd.h
+-
+pthread.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/kuda/cplusplus/thread_pool_c/threadpool.h
+

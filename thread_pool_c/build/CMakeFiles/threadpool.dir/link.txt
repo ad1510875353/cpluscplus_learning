@@ -1,0 +1,1 @@
+/usr/bin/gcc -g  -rdynamic CMakeFiles/threadpool.dir/threadpool.c.o CMakeFiles/threadpool.dir/main.c.o  -o threadpool  -lpthread 

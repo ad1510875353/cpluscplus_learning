@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/kuda/cplusplus/thread_pool_c/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/threadpool.dir/threadpool.c.o   -c /home/kuda/cplusplus/thread_pool_c/threadpool.c",
+  "file": "/home/kuda/cplusplus/thread_pool_c/threadpool.c"
+},
+{
+  "directory": "/home/kuda/cplusplus/thread_pool_c/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/threadpool.dir/main.c.o   -c /home/kuda/cplusplus/thread_pool_c/main.c",
+  "file": "/home/kuda/cplusplus/thread_pool_c/main.c"
+}
+]

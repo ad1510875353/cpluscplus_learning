@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/kuda/cplusplus/thread_pool_cpp11/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/threadpool.dir/main.cpp.o -c /home/kuda/cplusplus/thread_pool_cpp11/main.cpp",
+  "file": "/home/kuda/cplusplus/thread_pool_cpp11/main.cpp"
+}
+]

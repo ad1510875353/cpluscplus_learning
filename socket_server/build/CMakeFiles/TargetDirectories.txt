@@ -1,0 +1,3 @@
+/home/kuda/cplusplus/socket_server/build/CMakeFiles/rebuild_cache.dir
+/home/kuda/cplusplus/socket_server/build/CMakeFiles/edit_cache.dir
+/home/kuda/cplusplus/socket_server/build/CMakeFiles/server.dir
