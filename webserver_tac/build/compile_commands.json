@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/kuda/cplusplus/webserver_tac/build",
+  "command": "/usr/bin/g++     -pthread -O3 -DNDEBUG   -std=gnu++14 -o CMakeFiles/webserver.dir/code/buffer/buffer.cpp.o -c /home/kuda/cplusplus/webserver_tac/code/buffer/buffer.cpp",
+  "file": "/home/kuda/cplusplus/webserver_tac/code/buffer/buffer.cpp"
+},
+{
+  "directory": "/home/kuda/cplusplus/webserver_tac/build",
+  "command": "/usr/bin/g++     -pthread -O3 -DNDEBUG   -std=gnu++14 -o CMakeFiles/webserver.dir/code/http/http_connect.cpp.o -c /home/kuda/cplusplus/webserver_tac/code/http/http_connect.cpp",
+  "file": "/home/kuda/cplusplus/webserver_tac/code/http/http_connect.cpp"
+},
+{
+  "directory": "/home/kuda/cplusplus/webserver_tac/build",
+  "command": "/usr/bin/g++     -pthread -O3 -DNDEBUG   -std=gnu++14 -o CMakeFiles/webserver.dir/code/http/http_request.cpp.o -c /home/kuda/cplusplus/webserver_tac/code/http/http_request.cpp",
+  "file": "/home/kuda/cplusplus/webserver_tac/code/http/http_request.cpp"
+},
+{
+  "directory": "/home/kuda/cplusplus/webserver_tac/build",
+  "command": "/usr/bin/g++     -pthread -O3 -DNDEBUG   -std=gnu++14 -o CMakeFiles/webserver.dir/code/http/http_response.cpp.o -c /home/kuda/cplusplus/webserver_tac/code/http/http_response.cpp",
+  "file": "/home/kuda/cplusplus/webserver_tac/code/http/http_response.cpp"
+},
+{
+  "directory": "/home/kuda/cplusplus/webserver_tac/build",
+  "command": "/usr/bin/g++     -pthread -O3 -DNDEBUG   -std=gnu++14 -o CMakeFiles/webserver.dir/code/log/log.cpp.o -c /home/kuda/cplusplus/webserver_tac/code/log/log.cpp",
+  "file": "/home/kuda/cplusplus/webserver_tac/code/log/log.cpp"
+},
+{
+  "directory": "/home/kuda/cplusplus/webserver_tac/build",
+  "command": "/usr/bin/g++     -pthread -O3 -DNDEBUG   -std=gnu++14 -o CMakeFiles/webserver.dir/code/pool/sqlconnpool.cpp.o -c /home/kuda/cplusplus/webserver_tac/code/pool/sqlconnpool.cpp",
+  "file": "/home/kuda/cplusplus/webserver_tac/code/pool/sqlconnpool.cpp"
+},
+{
+  "directory": "/home/kuda/cplusplus/webserver_tac/build",
+  "command": "/usr/bin/g++     -pthread -O3 -DNDEBUG   -std=gnu++14 -o CMakeFiles/webserver.dir/code/server/epoller.cpp.o -c /home/kuda/cplusplus/webserver_tac/code/server/epoller.cpp",
+  "file": "/home/kuda/cplusplus/webserver_tac/code/server/epoller.cpp"
+},
+{
+  "directory": "/home/kuda/cplusplus/webserver_tac/build",
+  "command": "/usr/bin/g++     -pthread -O3 -DNDEBUG   -std=gnu++14 -o CMakeFiles/webserver.dir/code/server/webserver.cpp.o -c /home/kuda/cplusplus/webserver_tac/code/server/webserver.cpp",
+  "file": "/home/kuda/cplusplus/webserver_tac/code/server/webserver.cpp"
+},
+{
+  "directory": "/home/kuda/cplusplus/webserver_tac/build",
+  "command": "/usr/bin/g++     -pthread -O3 -DNDEBUG   -std=gnu++14 -o CMakeFiles/webserver.dir/code/timer/heaptimer.cpp.o -c /home/kuda/cplusplus/webserver_tac/code/timer/heaptimer.cpp",
+  "file": "/home/kuda/cplusplus/webserver_tac/code/timer/heaptimer.cpp"
+},
+{
+  "directory": "/home/kuda/cplusplus/webserver_tac/build",
+  "command": "/usr/bin/g++     -pthread -O3 -DNDEBUG   -std=gnu++14 -o CMakeFiles/webserver.dir/main.cpp.o -c /home/kuda/cplusplus/webserver_tac/main.cpp",
+  "file": "/home/kuda/cplusplus/webserver_tac/main.cpp"
+}
+]
